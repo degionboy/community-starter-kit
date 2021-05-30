@@ -1,10 +1,8 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+Welcome to coding 101
 
 ## What it does
-
-FEATURES PLACEHOLDER
+Teaches you how to do coding
 
 ## Getting started
 
